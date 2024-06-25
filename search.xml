@@ -4,26 +4,50 @@
   
     
     <entry>
-      <title>page</title>
-      <link href="/posts/140ab620.html"/>
-      <url>/posts/140ab620.html</url>
+      <title>Python运算符</title>
+      <link href="/posts/51f98000.html"/>
+      <url>/posts/51f98000.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
       
+      <categories>
+          
+          <category> Python基础语法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/posts/4a17b156.html"/>
-      <url>/posts/4a17b156.html</url>
+      <title>Python初识</title>
+      <link href="/posts/140ab620.html"/>
+      <url>/posts/140ab620.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h2><p>编程语言是一种用于编写计算机程序的语言。程序是一组计算机可以执行的指令，这些指令告诉计算机如何执行特定的操作。</p><p>根据编程语言与计算机沟通的方式，我们通常将编程语言分为低级语言和高级语言：</p><ul><li>低级语言：低级语言更接近计算机硬件，直接操作计算机底层资源和指令。这些语言，如汇编语言，允许程序员直接与硬件通信，控制内存地址和CPU指令。它们主要用于那些需要极致性能优化和硬件控制的应用，例如操作系统的开发。</li><li>高级语言：高级语言相对于计算机硬件更接近人类自然语言，使编程更易于理解。这些语言通过提供简化的语法，帮助程序员高效地解决问题，而不必担心底层硬件的复杂性。它们广泛应用于软件开发、网页设计、数据库管理等领域。</li></ul><p>高级语言可以进一步按照代码的执行方式分为编译语言和解释语言：</p><ul><li>编译语言：编译语言是指源代码在运行之前需要一个单独的编译过程，将程序完全转换成机器语言。这一过程通常由一个叫做<strong>编译器</strong>的软件完成。编译器会检查全部的源代码并转换成目标机器上直接运行的机器代码。这意味着编译出来的程序执行速度快，因为它直接被CPU执行，无需再次转换或解释。</li><li>解释语言：解释语言不通过编译步骤直接将源代码转换为机器代码，而是在程序运行时逐行解释执行。这种语言通常依赖一个<strong>解释器</strong>来读取和执行源代码。解释器执行代码时，一边读取代码，一边进行处理和执行，不需要提前将程序编译成机器语言。</li></ul><h2 id="安装解释器"><a href="#安装解释器" class="headerlink" title="安装解释器"></a>安装解释器</h2><h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p>]]></content>
       
       
+      <categories>
+          
+          <category> Python基础语法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
       
     </entry>
     
